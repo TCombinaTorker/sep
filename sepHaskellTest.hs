@@ -1,1 +1,0 @@
-main = putStrLn "SEP Project Guthub init v0"
